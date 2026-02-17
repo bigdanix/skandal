@@ -46,7 +46,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/bigdanix/skandal/main
 | [Bunni.fun](https://bunni.fun) | 🔄 community reported |
 | [Xeno](https://xeno.onl) | ⚠️ partial |
 | [Solara](https://getsolara.dev) | ⚠️ partial |
-| [SirHurt](https://sirhurt.net) | ⚠️ partial |
 | [MacOS Executors](https://whatexpsare.online/) | ⚠️ partial |
 | [Android Executors](https://whatexpsare.online/) | ❌ unsupported |
 | [External Executors](https://whatexpsare.online/) | ❌ unsupported |
+| [SirHurt](https://sirhurt.net) | ⚫ unknown |
