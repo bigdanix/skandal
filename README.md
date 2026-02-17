@@ -20,14 +20,14 @@
   </table>
 </div>
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/bigdanix/skandal.club/refs/heads/main/resources/skandal.png" alt="skandal logo" width="80">
-</p>
+  <br>
+  <h1>
+    skandal.club <small>`last update: 17.02.26`</small>
+  </h1>
+</div>
 
-<h1 align="center">
-  skandal.club 
-  <small>`last update: 17.02.26`</small>
-</h1>
 ### installation
 to load the script, execute the following script within your executor.
 ```lua
