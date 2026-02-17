@@ -15,7 +15,7 @@
 # skandal.club $ `last update: 17.02.26`
 roblox utility script engineered for sharper gameplay and better performance.
 
-## installation
+### installation
 to load the script, execute the following script within your executor.
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bigdanix/skandal/main/placeholder"))()
