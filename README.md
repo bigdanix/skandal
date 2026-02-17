@@ -13,3 +13,15 @@ roblox utility script engineered for sharper gameplay and better performance.
 - movement optimization
 - camera adjustments
 - environment manipulation
+
+# compatibility 🔧
+| executor | status |
+|----------|--------|
+| [Volt]   | ✅ tested |
+| [Potassium]   | ✅ tested |
+| [Seliware]   | ✅ tested |
+| [Volcano]   | ✅ tested |
+| [Velocity]   | ✅ tested |
+| [Xeno]   | ⚠️ partial |
+| [Bunni.fun]   | 🔄 community reported |
+| [Android Executors]   | ❌ unsupported |
