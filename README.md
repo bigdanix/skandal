@@ -8,7 +8,7 @@ roblox utility script engineered for sharper gameplay and better performance.
 - esp / wallhack
 
 ![esp preview](https://raw.githubusercontent.com/bigdanix/skandal/refs/heads/main/repo-assets/esp-preview.png)
-- world / visuals
+- world visuals
 - camera / view
 - player / movement
 
