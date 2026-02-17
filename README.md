@@ -6,6 +6,10 @@
   <a href="https://v3rm.net/members/bigdanix.91819/">
     <img src="https://img.shields.io/static/v1?label=&amp;message=v3rm%20profile&amp;color=FF4500&amp;style=plastic&amp;logo=v&amp;logoColor=white" alt="v3rm profile">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bigdanix">
+    <img src="https://img.shields.io/static/v1?label=&amp;message=github%20profile&amp;color=181717&amp;style=plastic&amp;logo=refined-github&amp;logoColor=white" alt="github profile">
+  </a>
 </p>
 
 # skandal.club $ `last update: 17.02.26`
