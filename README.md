@@ -15,18 +15,18 @@ roblox utility script engineered for sharper gameplay and better performance.
 - environment manipulation
 
 # compatibility 🔧
-# compatibility 🔧
 | executor | status |
 |----------|--------|
-| Volt | ✅ tested |
-| Wave | ✅ tested |
-| Potassium | ✅ tested |
-| Seliware | ✅ tested |
-| Volcano | ✅ tested |
-| Velocity | ✅ tested |
-| Bunni.fun | 🔄 community reported |
-| Xeno | ⚠️ partial |
-| SirHurt | ⚠️ partial |
+| [Volt](https://volt.bz/) | ✅ tested |
+| [Wave](https://getwave.gg) | ✅ tested |
+| [Potassium](https://potassium.pro) | ✅ tested |
+| [Seliware](https://seliware.com) | ✅ tested |
+| [Volcano](https://volcano.wtf) | ✅ tested |
+| [Velocity](https://realvelocity.xyz) | ✅ tested |
+| [Bunni.fun](https://bunni.fun) | 🔄 community reported |
+| [Xeno](https://xeno.onl) | ⚠️ partial |
+| [Solara](https://getsolara.dev) | ⚠️ partial |
+| [SirHurt](https://sirhurt.net) | ⚠️ partial |
 | MacOS Executors | ⚠️ partial |
 | Android Executors | ❌ unsupported |
 | External Executors | ❌ unsupported |
