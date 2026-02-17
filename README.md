@@ -3,6 +3,12 @@ roblox utility script engineered for sharper gameplay and better performance.
 
 📨 join our discord: [link](https://discord.gg/invitecode)
 
+# installation
+to load the script, execute the following script within your executor.
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bigdanix/skandal/main/skandal.lua"))()
+```
+
 # features
 - aim enhancement
 - esp / wallhack
