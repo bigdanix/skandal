@@ -1,14 +1,24 @@
-<p align="center">
-  <a href="https://discord.gg/invitecode" style="text-decoration: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?label=&amp;message=discord&amp;color=5865F2&amp;style=plastic&amp;logo=discord&amp;logoColor=white" alt="Discord">
-  </a>
-  <a href="https://v3rm.net/members/bigdanix.91819/" style="text-decoration: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?label=&amp;message=v3rm%20profile&amp;color=FF4500&amp;style=plastic&amp;logo=v&amp;logoColor=white" alt="v3rm profile">
-  </a>
-  <a href="https://github.com/bigdanix" style="text-decoration: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?label=&amp;message=github%20profile&amp;color=181717&amp;style=plastic&amp;logo=refined-github&amp;logoColor=white" alt="github profile">
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="padding-right: 10px;">
+        <a href="https://discord.gg/invitecode">
+          <img src="https://img.shields.io/static/v1?label=&amp;message=discord&amp;color=5865F2&amp;style=plastic&amp;logo=discord&amp;logoColor=white" alt="Discord">
+        </a>
+      </td>
+      <td style="padding-right: 10px;">
+        <a href="https://v3rm.net/members/bigdanix.91819/">
+          <img src="https://img.shields.io/static/v1?label=&amp;message=v3rm%20profile&amp;color=FF4500&amp;style=plastic&amp;logo=v&amp;logoColor=white" alt="v3rm profile">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bigdanix">
+          <img src="https://img.shields.io/static/v1?label=&amp;message=github%20profile&amp;color=181717&amp;style=plastic&amp;logo=refined-github&amp;logoColor=white" alt="github profile">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 # skandal.club $ `last update: 17.02.26`
 ### installation
