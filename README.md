@@ -18,10 +18,14 @@ roblox utility script engineered for sharper gameplay and better performance.
 | executor | status |
 |----------|--------|
 | [Volt]   | ✅ tested |
+| [Wave]   | ✅ tested |
 | [Potassium]   | ✅ tested |
 | [Seliware]   | ✅ tested |
 | [Volcano]   | ✅ tested |
 | [Velocity]   | ✅ tested |
-| [Xeno]   | ⚠️ partial |
 | [Bunni.fun]   | 🔄 community reported |
+| [Xeno]   | ⚠️ partial |
+| [SirHurt]   | ⚠️ partial |
+| [MacOS Executors]   | ⚠️ partial |
 | [Android Executors]   | ❌ unsupported |
+| [External Executors]   | ❌ unsupported |
