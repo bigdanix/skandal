@@ -1,7 +1,8 @@
-<p align="left">
+<p align="center">
   <a href="https://discord.gg/invitecode">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge" alt="Discord">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://v3rm.net/members/bigdanix.91819/">
     <img src="https://img.shields.io/badge/v3rm-profile-red?style=for-the-badge" alt="v3rm profile">
   </a>
