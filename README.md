@@ -22,8 +22,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/bigdanix/skandal/main
 # features
 - aim enhancement
 - esp / wallhack
-
-![esp preview](https://raw.githubusercontent.com/bigdanix/skandal/refs/heads/main/repo-assets/esp-preview.png)
 - world visuals
 - camera / view
 - player / movement
