@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://discord.gg/invitecode">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://v3rm.net/members/bigdanix.91819/">
+    <img src="https://img.shields.io/badge/V3rmillion-Profile-red?style=for-the-badge" alt="V3rmillion Profile">
+  </a>
+</p>
+
 # skandal.club $ `last update: 17.02.26`
 roblox utility script engineered for sharper gameplay and better performance.
 
