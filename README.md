@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge" alt="Discord">
   </a>
   <a href="https://v3rm.net/members/bigdanix.91819/">
-    <img src="https://img.shields.io/badge/v3rm-profile-red?style=for-the-badge" alt="V3rmillion Profile">
+    <img src="https://img.shields.io/badge/v3rm-profile-red?style=for-the-badge" alt="v3rm profile">
   </a>
 </p>
 
