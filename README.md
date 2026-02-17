@@ -3,7 +3,7 @@ roblox utility script engineered for sharper gameplay and better performance.
 
 📨 join our discord: [link](https://discord.gg/invitecode)
 
-# features 🔩
+# features
 - aim enhancement
 - esp / wallhack
 
@@ -12,7 +12,7 @@ roblox utility script engineered for sharper gameplay and better performance.
 - camera / view
 - player / movement
 
-# compatibility 🔧
+# compatibility
 | executor | status |
 |----------|--------|
 | [Volt](https://volt.bz/) | ✅ tested |
