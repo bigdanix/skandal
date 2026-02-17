@@ -6,7 +6,7 @@ roblox utility script engineered for sharper gameplay and better performance.
 # features 🔩
 - aim enhancement
 - extra sensory perception (esp)
-![esp preview](github.com/bigdanix/skandal/blob/main/repo-assets/esp%20preview.png?raw=true)
+![esp preview](github.com/bigdanix/skandal/blob/main/repo-assets/esp%20preview.png?raw=true](https://github.com/bigdanix/skandal/blob/main/repo-assets/esp%20preview.png))
 - world visuals
 - movement optimization
 - camera adjustments
