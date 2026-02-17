@@ -27,6 +27,6 @@ roblox utility script engineered for sharper gameplay and better performance.
 | [Xeno](https://xeno.onl) | ⚠️ partial |
 | [Solara](https://getsolara.dev) | ⚠️ partial |
 | [SirHurt](https://sirhurt.net) | ⚠️ partial |
-| MacOS Executors | ⚠️ partial |
-| Android Executors | ❌ unsupported |
-| External Executors | ❌ unsupported |
+| [MacOS Executors](https://whatexpsare.online/) | ⚠️ partial |
+| [Android Executors](https://whatexpsare.online/) | ❌ unsupported |
+| [External Executors](https://whatexpsare.online/) | ❌ unsupported |
