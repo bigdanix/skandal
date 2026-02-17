@@ -1,7 +1,5 @@
-# skandal.club 🌠
+# skandal.club 🌠 📨 join our discord: [link](https://discord.gg/invitecode)
 roblox utility script engineered for sharper gameplay and better performance.
-
-📨 join our discord: [link](https://discord.gg/invitecode)
 
 # features 🔩
 - aim enhancement
