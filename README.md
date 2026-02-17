@@ -1,4 +1,4 @@
-# skandal.club 🌠 `v17.02.26`
+# skandal.club 🌠 `last update: 17.02.26`
 roblox utility script engineered for sharper gameplay and better performance.
 
 📨 join our discord: [link](https://discord.gg/invitecode)
