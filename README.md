@@ -5,14 +5,12 @@ roblox utility script engineered for sharper gameplay and better performance.
 
 # features 🔩
 - aim enhancement
-- extra sensory perception (esp)
+- esp / wallhack
 
-  
 ![esp preview](https://raw.githubusercontent.com/bigdanix/skandal/refs/heads/main/repo-assets/esp-preview.png)
-- world visuals
-- movement optimization
-- camera adjustments
-- environment manipulation
+- world / visuals
+- camera / view
+- player / movement
 
 # compatibility 🔧
 | executor | status |
