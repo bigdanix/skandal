@@ -1,11 +1,13 @@
 <p align="center">
-  <a href="https://discord.gg/invitecode" style="text-decoration:none; margin: 0 5px;">
+  <a href="https://discord.gg/invitecode">
     <img src="https://img.shields.io/static/v1?label=&message=discord&color=5865F2&style=plastic&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://v3rm.net/members/bigdanix.91819/" style="text-decoration:none; margin: 0 5px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://v3rm.net/members/bigdanix.91819/">
     <img src="https://img.shields.io/static/v1?label=&message=v3rm profile&color=FF4500&style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cG9seWdvbiBwb2ludHM9IjAsMCAyMCwwIDUwLDcwIDgwLDAgMTAwLDAgNTAsMTAwIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="v3rm profile">
   </a>
-  <a href="https://github.com/bigdanix/skandal" style="text-decoration:none; margin: 0 5px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bigdanix/skandal">
     <img src="https://img.shields.io/static/v1?label=&message=github repo&color=181717&style=plastic&logo=github&logoColor=white" alt="GitHub Repo">
   </a>
 </p>
