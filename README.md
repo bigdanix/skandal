@@ -20,7 +20,7 @@
   </table>
 </div>
 
-# skandal.club <sup>`last update: 17.02.26`</sup>
+# skandal.club <small>`last update: 17.02.26`</small>
 ### installation
 to load the script, execute the following script within your executor.
 ```lua
